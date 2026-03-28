@@ -1,0 +1,8 @@
+# ignore local sql server stuff
+*.bak
+*.mdf
+*.ldf
+
+# editor
+.vscode/
+*.suo
